@@ -1,0 +1,27 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "window.zoomLevel": 1,
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Night Shift",
+    "workbench.iconTheme": "material-icon-theme",
+    "redhat.telemetry.enabled": true,
+    "workbench.productIconTheme": "macos-modern",
+    "background.windowBackgrounds": [
+        "/Users/prasenjit/Desktop/Screenshot 2024-07-01 at 8.16.56 PM.png"
+    ],
+    "database-client.autoSync": true,
+    "terminal.integrated.tabs.enabled": false,
+    "terminal.integrated.inheritEnv": false,
+    "C_Cpp.vcFormat.space.beforeInheritanceColon": false,
+    "python.createEnvironment.trigger": "off",
+    "powermode.shake.intensity": 2,
+    "powermode.explosions.customCss": {
+
+    },
+    "powermode.presets": "flames",
+    "background.enabled": true,
+    "workbench.sideBar.location": "right",
+    "workbench.editor.empty.hint": "hidden"
+}
